@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "感電 - Kanden",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2026-03-04T08:12:00.393138Z",
+  "base_track": "感電",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-20T03:22:38.890549Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -71,34 +71,34 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "感電",
-      "artist": "米津 玄師",
-      "has_synced": true,
-      "path": "select/09_感電_米津_玄師.lrc"
+      "title": "感電、けがのおそれがあります。",
+      "artist": "ザアザア",
+      "has_synced": false,
+      "path": "select/09_感電、けがのおそれがあります。_ザアザア.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Kanden 「感電」",
-      "artist": "Kenshi Yonezu",
+      "title": "感電",
+      "artist": "米津 玄師",
       "has_synced": true,
-      "path": "select/10_Kanden_「感電」_Kenshi_Yonezu.lrc"
+      "path": "select/10_感電_米津_玄師.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "感電、けがのおそれがあります。",
-      "artist": "ザアザア",
-      "has_synced": false,
-      "path": "select/11_感電、けがのおそれがあります。_ザアザア.txt"
+      "title": "感電 (Paused)",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_感電_(Paused)_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "感電 (Paused)",
+      "title": "Kanden 「感電」",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/12_感電_(Paused)_Kenshi_Yonezu.lrc"
+      "path": "select/12_Kanden_「感電」_Kenshi_Yonezu.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -107,6 +107,15 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_感電_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "感電",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_01_感電_米津玄師.txt",
+      "repo_name": "UFQEttrn6CQ"
     }
   ]
 }
